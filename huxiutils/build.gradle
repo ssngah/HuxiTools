@@ -26,7 +26,7 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.2.0'
-    compile 'com.github.ssngah:VolleyEx:0.5'
+    compile 'com.github.ssngah:VolleyEx:0.6'
     compile 'com.android.support:recyclerview-v7:23.2.0'
     compile 'com.marshalchen.ultimaterecyclerview:library:0.3.18'
     compile 'com.github.ssngah:AndroidProgressHud:0.8'
