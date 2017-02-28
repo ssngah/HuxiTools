@@ -117,7 +117,7 @@ public abstract class BaseCollector<T> implements Serializable{
 
     protected abstract void doLoadRequest(Context context, LoadFinishCallback callback);
 
-    protected interface LoadFinishCallback {
+    public interface LoadFinishCallback {
         public void onLoadFinish(HXError error, List arrays, boolean hasNext);
     }
 
