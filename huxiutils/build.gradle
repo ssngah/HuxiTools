@@ -29,5 +29,5 @@ dependencies {
     compile 'com.github.ssngah:VolleyEx:0.7.1'
     compile 'com.android.support:recyclerview-v7:23.2.0'
     compile 'com.marshalchen.ultimaterecyclerview:library:0.3.18'
-    compile 'com.github.ssngah:AndroidProgressHud:0.8'
+    compile 'com.github.ssngah:AndroidProgressHud:0.9'
 }
